@@ -21,7 +21,7 @@ app.service('mainService', function($http, $q) {
 });
 ```
 
-- Once injected we can begin using it by adding a deffered variable to handle it
+- Once injected we can begin using it by adding a defferred variable to handle it
 
 ``` javascript
 var app = angular.module('userProfiles');
